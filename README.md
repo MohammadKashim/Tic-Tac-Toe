@@ -65,7 +65,7 @@
 ### 🔗 Clone the Repository
 
 ```bash
-git clone https://github.com/manishrnl/tic-tac-toe-Game.git
+git clone https://github.com/MohammadKashim/Tic-Tac-Toe.git
 cd tic-tac-toe-Game
 ```
 
